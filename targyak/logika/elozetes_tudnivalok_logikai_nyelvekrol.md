@@ -18,7 +18,6 @@ találunk benne.
 
 ```
 "Formulák építése"
-
 ```
 ```js
 Az atomi formulákból logikai szimbólumok segítségével összetett formulák építhetőek
