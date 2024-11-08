@@ -2,23 +2,27 @@
 "Formulák és termek"
 ```
 ```js
-Egy elsőrendű logikai nyelvben kétféle kifejezést különböztetünk meg:
+Elsőrendű logikai nyelvben két fő elemet különböztetünk meg:
 
-A "formula" – esetleges paramétereitől függő – állítás, melyet az érvelés leírására
-használunk. Legegyszerűbb (paramétermentes) formája az ítéletváltozó, amely
-egyetlen – logikai értelemben atomi – állítást jelöl.
+1. **Formulák**: Ezek állításokat jelölnek, például *P(x)* jelentheti azt, hogy "*x zöld*." 
+A legegyszerűbb formula az **ítéletváltozó**, 
+amely egy konkrét állítást jelöl, mint például "*A*" (ami azt jelentheti, hogy "*esik az eső*").
 
-A "termek" ezzel szemben objektumokat jelölnek. Ezek legegyszerübb formája
-az individuumváltozó vagy a konstans szimbólum, de objektum leírás is készülhet
-összetett formában.
+2. **Termek**: Ezek objektumokat jelölnek. 
+Egy egyszerű term például egy változó, mint "*x*", vagy egy konstans, mint "*a*" (mondjuk, hogy "*Alma*"). 
+Összetett termek lehetnek, mint például "*f(x)*," ahol "*f*" egy függvény, amely egy objektumot leír.
 
-A nulladrendű nyelvek szerkezete ennél egyszerűubb, (többek között) termeket nem
-találunk benne.
+A nulladrendű logikában egyszerűbb a nyelv: 
+nincsenek benne termek, 
+így nem használunk objektumokat – csak kijelentéseket, mint "*A igaz*" vagy "*B hamis*."
 ```
 
 ```
 "Formulák építése"
 ```
+
+
+
 ```js
 Az atomi formulákból logikai szimbólumok segítségével összetett formulák építhetőek
 A logikai szimbólumok lehetnek logikai összekötő jelek:
