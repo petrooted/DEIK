@@ -23,8 +23,7 @@ találunk benne.
 Az atomi formulákból logikai szimbólumok segítségével összetett formulák építhetőek
 A logikai szimbólumok lehetnek logikai összekötő jelek:
 (Feltéve hogy A és B formulákat jelölnek)
-```
-```js
+
 \neg a negáció jel ahol \neg A olvasata "nem A".
 \wedge a konjukció jeé ahol (A \wedge B) olvasata "A és B".
 \vee a diszjunkció jel ahol (A \vee B) olvasata "A vagy B".
