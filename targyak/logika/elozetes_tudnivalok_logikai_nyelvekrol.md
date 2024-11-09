@@ -6,11 +6,11 @@ Elsőrendű logikai nyelvben két fő elemet különböztetünk meg:
 
 1. **Formulák**: Ezek állításokat jelölnek, például *P(x)* jelentheti azt, hogy "*x zöld*." 
 A legegyszerűbb formula az **ítéletváltozó**, 
-amely egy konkrét állítást jelöl, mint például "*A*" (ami azt jelentheti, hogy "*esik az eső*").
+amely egy konkrét állítást jelöl, mint például "A" (ami azt jelentheti, hogy "esik az eső")
 
-2. **Termek**: Ezek objektumokat jelölnek. 
-Egy egyszerű term például egy változó, mint "*x*", vagy egy konstans, mint "*a*" (mondjuk, hogy "*Alma*"). 
-Összetett termek lehetnek, mint például "*f(x)*," ahol "*f*" egy függvény, amely egy objektumot leír.
+2. **Termek**: Ezek objektumokat jelölnek, 
+Egy egyszerű term például egy változó, mint "x", vagy egy konstans, mint "a" (mondjuk, hogy "Alma"). 
+Összetett termek lehetnek, mint például "f(x)," ahol "f" egy függvény, amely egy objektumot leír.
 
 A nulladrendű logikában egyszerűbb a nyelv: 
 nincsenek benne termek, 
