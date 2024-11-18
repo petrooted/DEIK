@@ -1,1 +1,1 @@
-# Itt találhatóak a gyakorolni való fájlokat
+# Itt találhatóak a gyakorolni való fájlok
