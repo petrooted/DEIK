@@ -12,4 +12,6 @@ magánhangó van benne
 grep "[aeiou]"
 a magánhangzók van benne negáltja (mássalhangzók)
 grep "[^aeiou]"
+ahol van szóköz
+grep "\ "
 ```
