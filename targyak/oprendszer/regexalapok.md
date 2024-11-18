@@ -1,5 +1,5 @@
 
-```lua
+```js
 két egymás utáni r betű
 grep "r{2}"
 1-3 ig terjedő sorozatban lévő r betűk egymás mellett
