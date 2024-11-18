@@ -14,4 +14,6 @@ a magánhangzók van benne negáltja (mássalhangzók)
 grep "[^aeiou]"
 ahol van szóköz
 grep "\ "
+szóköz utáni betű a
+grep "\ a"
 ```
