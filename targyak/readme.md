@@ -1,0 +1,37 @@
+# ZH időpontok
+## programcsomagok
+```js
+Az első lehetőség a zárthelyi dolgozat megírására: november 25.,  18:00-tól. Helyszín: TEOKJ, fsz.107. 
+```
+```js
+A gyakorlati jegyek számítása: 
+0-19.99 pont: elégtelen
+20-26.99 pont: elégséges
+27-34.99 pont: közepes
+35-42.99 pont: jó
+43-50 pont: jeles
+```
+## matmernok1
+```js
+Az első zárthelyi dolgozat október 29-én, kedden 16:00 és 18:00 között lesz. 
+(Javítás/pótlás: december 19, 10:00-12:00) 
+A második zárthelyi dolgozat december 10-én, kedden, 16:00 és 18:00 között lesz. 
+(Javítás/pótlás: december 16, 14:00-16:00) 
+```
+
+## oprendszer
+```js
+Az első zárthelyi dolgozat november 27.-én, szerdán lesz 18:00 és 20:00 között lesz.
+```
+```js
+Két részből fog állni. Egy tesztből és egy bash program írásából.
+A bash program megfelelt - nem megfelelt eredményű lehet. A megfelelt szükséges az érvényes jegyhez.
+A teszt eredménye adja az érdemjegyet. Megszerezhető pontszám : 50.
+```
+```js
+5 : 46 - 50
+4: 41 - 45
+3: 36 - 40
+2: 31 - 35
+1: 0 - 30
+```
