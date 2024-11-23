@@ -35,3 +35,14 @@ A teszt eredménye adja az érdemjegyet. Megszerezhető pontszám : 50.
 2: 31 - 35
 1: 0 - 30
 ```
+## kalkulus
+```js
+A zárthelyi dolgozatok időpontjai:
+Az első zárthelyi dolgozat: 2024. november 5. (kedd), 12:00 –13:40
+A második zárthelyi dolgozat: 2024. december 10. (kedd), 12:00 –13:40
+```
+```js
+A javító dolgozatok időpontjai:
+Az első zárthelyi dolgozat javító dolgozata: 2024. december 16. (hétfő), 8:00 – 9:40
+A második zárthelyi dolgozat javító dolgozata: 2024. december 16. (hétfő), 10:00 – 11: 40
+```
