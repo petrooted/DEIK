@@ -29,7 +29,7 @@ A bash program megfelelt - nem megfelelt eredményű lehet. A megfelelt szüksé
 A teszt eredménye adja az érdemjegyet. Megszerezhető pontszám : 50.
 ```
 ```js
-5 : 46 - 50
+5: 46 - 50
 4: 41 - 45
 3: 36 - 40
 2: 31 - 35
