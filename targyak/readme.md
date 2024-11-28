@@ -1,4 +1,7 @@
 # ZH időpontok
+# 12 nap maradt a kalkulus 2.ZH-ig és a matmernok1 2.ZH-ig
+# 13 nap maradt az algoritmusok vizsgáig
+# 20 nap maradt a matmernok1 2.ZH (javító)-ig
 
 ## algprog
 ```js
