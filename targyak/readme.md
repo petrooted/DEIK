@@ -35,6 +35,9 @@ A második zárthelyi dolgozat december 10-én, kedden, 16:00 és 18:00 között
 Az első lehetőség a zárthelyi dolgozat megírására: november 25.,  18:00-tól. Helyszín: TEOKJ, fsz.107. 
 ```
 ```js
+A második lehetőség a zárthelyi dolgozat megírására: december 10.,  19:00-tól. Helyszín: TEOKJ, fsz.107. 
+```
+```js
 A gyakorlati jegyek számítása: 
 0-19.99 pont: elégtelen
 20-26.99 pont: elégséges
