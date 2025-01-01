@@ -1,14 +1,12 @@
 # ZH időpontok
-# 1 nap maradt a kalkulus 2.ZH-ig és a matmernok1 2.ZH-ig
-# 2 nap maradt az algoritmusok vizsgáig
-# 9 nap maradt a matmernok1 2.ZH (javító)-ig
+# 19 nap maradt a logika vizsgáig
 
-## algprog
+## algprog (megírva, gyakorolni kell)
 ```js
 Az első zárthelyi dolgozat december 11-én, ismertetlen időpontban lesz.
 ```
 
-## kalkulus
+## kalkulus (megírva)
 ```js
 A zárthelyi dolgozatok időpontjai:
 Az első zárthelyi dolgozat: 2024. november 5. (kedd), 12:00 –13:40 **(megírva)**
@@ -20,7 +18,7 @@ Az első zárthelyi dolgozat javító dolgozata: 2024. december 16. (hétfő), 8
 A második zárthelyi dolgozat javító dolgozata: 2024. december 16. (hétfő), 10:00 – 11: 40
 ```
 
-## matmernok1
+## matmernok1 (megírva)
 ```js
 Az első zárthelyi dolgozat október 29-én, kedden 16:00 és 18:00 között lesz. **(megírva de javítani)**
 (Javítás/pótlás: december 19, 10:00-12:00)  **(kell)**
@@ -30,7 +28,7 @@ A második zárthelyi dolgozat december 10-én, kedden, 16:00 és 18:00 között
 
 
 
-## programcsomagok
+## programcsomagok (megírva)
 ```js
 Az első lehetőség a zárthelyi dolgozat megírására: november 25.,  18:00-tól. Helyszín: TEOKJ, fsz.107. 
 ```
