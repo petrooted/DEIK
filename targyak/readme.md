@@ -1,5 +1,5 @@
 # ZH időpontok
-# 19 nap maradt a logika vizsgáig
+# 10 nap maradt a logika vizsgáig
 
 ## algprog (megírva, gyakorolni kell)
 ```js
